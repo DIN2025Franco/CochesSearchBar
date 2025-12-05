@@ -2,7 +2,7 @@ import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 function Footer() {
     return (
-      <footer className="w-full secondary-bg text-white mt-5 py-6">
+      <footer className="w-full secondary-bg text-white py-6">
         <div className="px-10 md:px-40 flex flex-col md:flex-row justify-between gap-6">
           {/* Columna 1: Conócenos */}
           <section>

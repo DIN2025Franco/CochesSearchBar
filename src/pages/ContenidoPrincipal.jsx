@@ -15,9 +15,9 @@ function ContenidoPrincipal() {
         {/* Donde se renderizan las rutas hijas */}
         <Outlet />
 
-        {/* Footer fijo al final del contenido */}
-        <Footer />
       </main>
+      {/* Footer fijo al final del contenido */}
+        <Footer />
     </>
   )
 }
